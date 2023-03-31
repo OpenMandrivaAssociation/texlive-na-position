@@ -1,6 +1,6 @@
 Name:		texlive-na-position
 Version:	55559
-Release:	1
+Release:	2
 Summary:	Tables of relative positions of curves and asymptotes or tangents in Arabic documents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/na-position
