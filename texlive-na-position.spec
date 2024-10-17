@@ -3,7 +3,7 @@ Version:	55559
 Release:	2
 Summary:	Tables of relative positions of curves and asymptotes or tangents in Arabic documents
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/na-position
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/na-position
 License:	lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/na-position.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/na-position.doc.r%{version}.tar.xz
